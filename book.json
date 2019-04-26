@@ -27,11 +27,6 @@
     "-highlight"
   ],
   "pluginsConfig": {
-    "prism": {
-      "lang": {
-        "shell": "bash"
-      }
-    },
     "search-pro": {
       "cutWordLib": "nodejieba",
       "defineWord" : ["Gitbook Use"]
